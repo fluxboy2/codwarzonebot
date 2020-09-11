@@ -22,11 +22,11 @@ COD Warzone Stats Documentation is a discord bot that replies back to your comma
 ### Usage
 Looks up two people and compares them
 ```sh
-.compare <platform> <player_username> <platform> <player_username>
+.compare <user_platform> <player_username> <platform> <player_username>
 ```
 Single user lookup
 ```sh
-.lookup <platform> <player_username>
+.lookup <user_platform> <player_username>
 ```
 
 ##### <user_platform> can be one of 5 options:
