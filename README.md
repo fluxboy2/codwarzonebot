@@ -29,7 +29,7 @@ Single user lookup
 .lookup <platform> <player_username>
 ```
 
-##### <platform> can be one of 5 options:
+##### '<platform>' can be one of 5 options:
 
 - act = Activision
 - psn = Playstation Network
