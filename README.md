@@ -20,7 +20,7 @@ COD Warzone Stats Documentation is a discord bot that replies back to your comma
 - Use this link to add the bot to a server you are admin in. [Authorize Discord Bot](https://discord.com/api/oauth2/authorize?client_id=751455260454682714&permissions=67632192&scope=bot)
 - Then use these commands below to use the bot
 ### Usage/Commands
-Looks up two people and compares them
+Looks up two people and compare them
 ```sh
 .compare <player_platform> <player_username> <player_platform> <player_username>
 ```
